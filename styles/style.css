@@ -3,12 +3,23 @@
 }
 
 .hero-image {
-	max-height: 500px;
+  max-height: 500px;
 	background-image: url("../images/hikers.jpg");
 	width: 100%;
 	object-fit: cover;
 	margin-bottom: 1rem;
 	/* img from https://unsplash.com/photos/Q6sRAxsAX68?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink */
+}
+
+.jumbotron{
+  height: 350px;
+  background-size: cover;
+}
+
+.col-sm-4{
+  margin-left: -435px;
+  font-size: 20px;
+	
 	
 }
 
