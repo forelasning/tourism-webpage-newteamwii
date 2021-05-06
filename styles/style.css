@@ -8,3 +8,13 @@
   object-fit: cover;
   margin-bottom: 1rem;
 }
+
+.jumbotron{
+  height: 350px;
+  background-size: cover;
+}
+
+.col-sm-4{
+  margin-left: -435px;
+  font-size: 20px;
+}
